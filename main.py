@@ -4,7 +4,7 @@ Created on Mon Jul 27 21:46:17 2020
 
 @author: zibernaa
 """
-
+ 
 
 from random import randint
 from random import choices
